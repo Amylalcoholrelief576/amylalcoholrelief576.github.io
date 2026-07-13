@@ -2,7 +2,7 @@
 title: "Neural Radiance Fields"
 permalink: /reviews/nerf/
 layout: archive
-author_profile: false
+author_profile: true
 sidebar:
   nav: "paper-sidebar"
 ---
