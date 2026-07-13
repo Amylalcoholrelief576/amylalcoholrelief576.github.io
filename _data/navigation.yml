@@ -5,5 +5,8 @@ main:
   - title: "Categories"
     url: /categories/
 
+  - title: "Tags"
+    url: /tags/
+
   - title: "GitHub"
     url: https://github.com/cmh9101
