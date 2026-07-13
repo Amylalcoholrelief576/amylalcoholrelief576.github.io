@@ -1,0 +1,32 @@
+{% assign navigation = site.data.navigation[include.nav] %}
+
+<nav class="nav__list">
+  <input id="ac-toc" name="accordion-toc" type="checkbox">
+  <label for="ac-toc">Toggle menu</label>
+
+  <ul class="nav__items">
+    {% for nav in navigation %}
+      <li>
+        <span class="nav__sub-title">{{ nav.title }}</span>
+
+        {% if nav.children %}
+          <ul>
+            {% for child in nav.children %}
+              {% assign post_count = site.categories[child.category] | size %}
+
+              <li>
+                <a href="{{ child.url | relative_url }}"
+                   {% if child.url == page.url %}class="active"{% endif %}>
+                  {{ child.title }}
+                  {% if child.category %}
+                    <span class="nav-count">({{ post_count }})</span>
+                  {% endif %}
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
