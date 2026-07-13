@@ -7,7 +7,7 @@ sidebar:
   nav: "paper-sidebar"
 ---
 
-3D Gaussian Splatting의 기본 원리, 확장 연구, 압축, 재구성 및 의료영상 적용 논문을 정리합니다.
+둥둥둥
 
 {% assign category_posts = site.categories["3DGS"] %}
 
