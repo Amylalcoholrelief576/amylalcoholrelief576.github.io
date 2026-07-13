@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Paper Review"
-author_profile: false
+author_profile: True
 sidebar:
   nav: "paper-sidebar"
 ---
