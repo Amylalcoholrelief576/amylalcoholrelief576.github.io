@@ -12,9 +12,9 @@ tags:
 
 - **Title:** 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 - **Conference:** 학회
-- **DOI:** [DOI](https://doi.org/...)
+- **DOI:** [DOI](https://doi.org/10.48550/arXiv.2308.04079)
 - **Paper:** [Paper Link](https://arxiv.org/abs/2308.04079)
-- **Code:** [GitHub](...)
+- **Code:** [GitHub](https://github.com/graphdeco-inria/gaussian-splatting)
 
 ## Introduction
 
