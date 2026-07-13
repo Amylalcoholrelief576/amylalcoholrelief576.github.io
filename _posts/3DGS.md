@@ -1,6 +1,6 @@
 ---
 title: "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
-date: 0000-00-00
+date: 2026-07-13
 categories:
   - 3DGS
 tags:
