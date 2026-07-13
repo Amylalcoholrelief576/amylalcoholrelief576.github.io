@@ -1,1 +1,31 @@
-3DGR-CT: Sparse-View CT Reconstruction with a 3D Gaussian Representation
+
+---
+title: "[논문리뷰] 3DGR-CT: Sparse-View CT Reconstruction with a 3D Gaussian Representation"
+date: 2026-07-13
+categories:
+  - Review
+  - 3DGS
+tags:
+  - Gaussian Splatting
+  - Novel View Synthesis
+  - Differentiable Rendering
+  - 3D Reconstruction
+  - Computer Vision
+  - Computed Tomography
+toc: true
+toc_sticky: true
+author_profile: true
+sidebar:
+  nav: "paper-sidebar"
+---
+
+## Paper Information
+
+- **Title:** 3DGR-CT: Sparse-View CT Reconstruction with a 3D Gaussian Representation
+- **Conference:** 학회
+- **DOI:** [DOI](...)
+- **Paper:** [Paper Link](...)
+- **Code:** [GitHub](...)
+
+## Introduction
+
