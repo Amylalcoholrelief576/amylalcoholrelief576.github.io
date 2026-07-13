@@ -2,7 +2,7 @@
 title: "논문 리뷰"
 permalink: /reviews/
 layout: archive
-author_profile: false
+author_profile: true
 sidebar:
   nav: "paper-sidebar"
 ---
