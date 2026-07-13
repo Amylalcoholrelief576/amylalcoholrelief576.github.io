@@ -1,5 +1,5 @@
-title: "cmh9101 Paper Review"
-description: "3DGS, NeRF, Diffusion 논문 및 코드 분석"
+title: "적게 일하고 많이 벌자!"
+description: "적게 일하고 많이 벌자!"
 url: "https://cmh9101.github.io"
 baseurl: ""
 
@@ -12,7 +12,7 @@ locale: "ko-KR"
 
 author:
   name: "cmh9101"
-  bio: "뚱뚱뚱."
+  bio: "자동사냥을 위하여"
   location: "Seoul, Korea"
   links:
     - label: "GitHub"
@@ -26,6 +26,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "paper-sidebar"
       read_time: true
       comments: false
       share: true
