@@ -1,20 +1,19 @@
 ---
-title: "Mesh-based Gaussian Splatting"
-date: 2026-07-13
+title: "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+date: -
 categories:
   - 3DGS
 tags:
-  - Mesh Extraction
-  - Surface Reconstruction
+  - 3D Reconstruction
+  - Novel view synthesis
 ---
 
 ## Paper Information
 
-- **Title:** Mesh-based Gaussian Splatting
-- **Authors:** 저자
+- **Title:** 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 - **Conference:** 학회
 - **DOI:** [DOI](https://doi.org/...)
-- **Paper:** [Paper Link](...)
+- **Paper:** [Paper Link]([...](https://arxiv.org/abs/2308.04079))
 - **Code:** [GitHub](...)
 
 ## Introduction
